@@ -22,6 +22,9 @@ Collection of interactive TUI tools for Linux system administration.
 ### Linux System Info
 ![System Info](linux_system_info/systeminfo.png)
 
+### Network Control
+![Network Control](network_control/networkcontrol.png)
+
 ## Requirements
 
 - Bash 4.0+
