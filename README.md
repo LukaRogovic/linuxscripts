@@ -25,7 +25,3 @@ Collection of interactive TUI tools for Linux system administration.
 ### Network Control
 ![Network Control](network_control/networkcontrol.png)
 
-## Requirements
-
-- Bash 4.0+
-- Linux distribution (Debian-based for bloatwar)
