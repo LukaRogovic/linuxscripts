@@ -29,6 +29,7 @@ Run the script
 Or with sudo for full access to information
 ```bash
 sudo ./linux-system-info.sh
+```
 
 ## Navigation
 
