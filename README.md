@@ -30,23 +30,5 @@ Collection of interactive TUI tools for Linux system administration.
 | cron_wizard | ✓ | ✓ | ✓ |
 | dev_setup | ✓ | ✓ | ✓ |
 
-## Screenshots
 
-### App Hub
-![App Hub](app_hub/apphub.png)
-
-### Bloatwar
-![Bloatwar](bloatwar/bloatwar.png)
-
-### Linux Inventory
-![Linux Inventory](linux_inventory/systeminvertory.png)
-
-### Linux System Info
-![System Info](linux_system_info/systeminfo.png)
-
-### Network Control
-![Network Control](network_control/networkcontrol.png)
-
-### SSH Hardener
-![SSH Hardener](ssh_hardener/sshhardener.png)
 
